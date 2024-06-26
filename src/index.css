@@ -1,0 +1,13 @@
+ .maindiv{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+ }
+ .maindiv button{
+  padding: 10px 40px;
+  margin: 12px;
+  cursor: pointer;
+  border: solid 2px black;
+ }
